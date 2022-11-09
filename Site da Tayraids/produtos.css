@@ -8,8 +8,8 @@
 
 body{
     height: 100vh;
-    display: grid;
-    place-items: center;
+    display: flex;
+    justify-content: space-around;
     font-family: 'rubik', sans-serif;
     background: #fafafa;
 }
